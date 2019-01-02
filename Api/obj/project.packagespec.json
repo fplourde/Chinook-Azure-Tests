@@ -1,0 +1,60 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\Api.csproj",
+    "projectName": "Api",
+    "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\Api.csproj",
+    "outputPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Albums\\Albums.csproj": {
+            "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Albums\\Albums.csproj"
+          },
+          "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj": {
+            "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
