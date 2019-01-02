@@ -20,4 +20,7 @@
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
+  <PropertyGroup>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
 </Project>
