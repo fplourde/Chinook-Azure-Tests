@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b073a68-7ed6-46c9-8469-9b13a6f21549" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Albums/Albums.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/Albums.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Albums/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Playlists/Playlists.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/Playlists.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StoredProcHel.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/StoredProcHel.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -223,12 +207,12 @@
       <workItem from="1546398667437" duration="5216000" />
       <workItem from="1546404284159" duration="539000" />
       <workItem from="1546404920951" duration="1354000" />
-      <workItem from="1546406470065" duration="1670000" />
+      <workItem from="1546406470065" duration="2033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9133000" />
+    <option name="totallyTimeSpent" value="9496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

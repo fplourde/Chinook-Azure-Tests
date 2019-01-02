@@ -7,7 +7,6 @@ using Microsoft.EntityFrameworkCore;
 namespace Api.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
     public class PlaylistsController : ControllerBase
     {
         // GET api/values
