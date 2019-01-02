@@ -13,8 +13,8 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: dotnet build --configuration $(buildConfiguration) --output $(Build.BinariesDirectory)/_publish
-  displayName: 'dotnet build $(buildConfiguration)'
+- script: dotnet publish --configuration $(buildConfiguration) --output $(Build.BinariesDirectory)/_publish
+  displayName: 'dotnet publish $(buildConfiguration)'
 
 - task: ArchiveFiles@2
   inputs:
