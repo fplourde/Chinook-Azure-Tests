@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj",
+    "projectUniqueName": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Playlists\\Playlists.csproj",
     "projectName": "Playlists",
-    "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj",
-    "outputPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\obj\\",
+    "projectPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Playlists\\Playlists.csproj",
+    "outputPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Playlists\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\Api.csproj",
+    "projectUniqueName": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Api\\Api.csproj",
     "projectName": "Api",
-    "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\Api.csproj",
-    "outputPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Api\\obj\\",
+    "projectPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Api\\Api.csproj",
+    "outputPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Api\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp2.1": {
         "projectReferences": {
-          "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Albums\\Albums.csproj": {
-            "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Albums\\Albums.csproj"
+          "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Albums\\Albums.csproj": {
+            "projectPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Albums\\Albums.csproj"
           },
-          "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj": {
-            "projectPath": "C:\\Users\\frede\\ownCloud\\Documents\\RiderProjects\\StoredProcHel\\Playlists\\Playlists.csproj"
+          "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Playlists\\Playlists.csproj": {
+            "projectPath": "D:\\Users\\Frédéric\\ownCloud\\Documents\\RiderProjects\\Chinook-azure-tests\\Playlists\\Playlists.csproj"
           }
         }
       }

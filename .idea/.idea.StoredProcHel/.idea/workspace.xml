@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b073a68-7ed6-46c9-8469-9b13a6f21549" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Albums/Albums.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/Albums.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlists/Playlists.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/Playlists.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StoredProcHel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Albums.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/Debug/netcoreapp2.1/Albums.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Albums/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/chinook.db" beforeDir="false" afterPath="$PROJECT_DIR$/Database/chinook.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.1/Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.1/Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databse/chinook.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Debug/netcoreapp2.1/Playlists.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/Playlists.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playlists/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Playlists/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoredProcHel.sln" beforeDir="false" afterPath="$PROJECT_DIR$/StoredProcHel.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoredProcHel.sln.DotSettings.user" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +40,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Playlists/Controllers/PlaylistsController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="176">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1546405309862" expanded="false" signature="6:152" ph="..." />
-                <marker date="1546405309862" expanded="true" signature="179:544" ph="{...}" />
-                <marker date="1546405309862" expanded="true" signature="287:542" ph="{...}" />
-                <marker date="1546405309862" expanded="true" signature="385:536" ph="{...}" />
+                <marker date="1546571808169" expanded="false" signature="6:152" ph="..." />
+                <marker date="1546571808169" expanded="true" signature="179:524" ph="{...}" />
+                <marker date="1546571808169" expanded="true" signature="267:522" ph="{...}" />
+                <marker date="1546571808169" expanded="true" signature="365:516" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,17 +58,17 @@
             <state relative-caret-position="160">
               <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
               <folding>
-                <marker date="1546405295417" expanded="false" signature="6:350" ph="..." />
-                <marker date="1546405295417" expanded="true" signature="375:3166" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="402:3164" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="461:524" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="747:1259" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="1447:1974" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="1668:1785" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
-                <marker date="1546405295417" expanded="true" signature="1819:1923" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="2062:3158" ph="{...}" />
-                <marker date="1546405295417" expanded="true" signature="2560:2651" ph="/* Logging.Info($&quot;Found {ControllersList.Count} controllers&quot;); ... */" />
-                <marker date="1546405295417" expanded="true" signature="2707:3148" ph="{...}" />
+                <marker date="1546571808120" expanded="false" signature="6:350" ph="..." />
+                <marker date="1546571808120" expanded="true" signature="375:3166" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="402:3164" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="461:524" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="747:1259" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="1447:1974" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="1668:1785" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+                <marker date="1546571808120" expanded="true" signature="1819:1923" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="2062:3158" ph="{...}" />
+                <marker date="1546571808120" expanded="true" signature="2560:2651" ph="/* Logging.Info($&quot;Found {ControllersList.Count} controllers&quot;); ... */" />
+                <marker date="1546571808120" expanded="true" signature="2707:3148" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,13 +77,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Api/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="112">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <marker date="1545794665000" expanded="false" signature="6:255" ph="..." />
-                <marker date="1545794665000" expanded="true" signature="280:607" ph="{...}" />
-                <marker date="1545794665000" expanded="true" signature="307:605" ph="{...}" />
-                <marker date="1545794665000" expanded="true" signature="360:434" ph="{...}" />
+                <marker date="1546571808104" expanded="false" signature="6:255" ph="..." />
+                <marker date="1546571808104" expanded="true" signature="280:607" ph="{...}" />
+                <marker date="1546571808104" expanded="true" signature="307:605" ph="{...}" />
+                <marker date="1546571808104" expanded="true" signature="360:434" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -71,10 +95,10 @@
             <state relative-caret-position="64">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
-                <marker date="1546405136188" expanded="false" signature="6:155" ph="..." />
-                <marker date="1546405136188" expanded="true" signature="185:541" ph="{...}" />
-                <marker date="1546405136188" expanded="true" signature="290:539" ph="{...}" />
-                <marker date="1546405136188" expanded="true" signature="385:533" ph="{...}" />
+                <marker date="1546571808090" expanded="false" signature="6:155" ph="..." />
+                <marker date="1546571808090" expanded="true" signature="185:521" ph="{...}" />
+                <marker date="1546571808090" expanded="true" signature="270:519" ph="{...}" />
+                <marker date="1546571808090" expanded="true" signature="365:513" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -86,10 +110,10 @@
             <state relative-caret-position="32">
               <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding>
-                <marker date="1546399570735" expanded="false" signature="6:50" ph="..." />
-                <marker date="1546399570735" expanded="true" signature="77:453" ph="{...}" />
-                <marker date="1546399570735" expanded="true" signature="124:451" ph="{...}" />
-                <marker date="1546399570735" expanded="true" signature="274:445" ph="{...}" />
+                <marker date="1546571808094" expanded="false" signature="6:50" ph="..." />
+                <marker date="1546571808094" expanded="true" signature="77:453" ph="{...}" />
+                <marker date="1546571808094" expanded="true" signature="124:451" ph="{...}" />
+                <marker date="1546571808094" expanded="true" signature="274:445" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,13 +125,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Playlists/Database/ChinookDatabase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Playlists/Database/Playlist.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Playlists/Controllers/PlaylistsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Albums/Controllers/AlbumsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Albums/Database/ChinookDatabase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Albums/Database/Album.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Albums/Database/ChinookDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Albums/Controllers/AlbumsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -125,6 +149,7 @@
         <option value="$PROJECT_DIR$/Api/Startup.cs" />
         <option value="$PROJECT_DIR$/Albums/Controllers/AlbumsController.cs" />
         <option value="$PROJECT_DIR$/Playlists/Controllers/PlaylistsController.cs" />
+        <option value="$PROJECT_DIR$/Database/Class1.cs" />
       </list>
     </option>
   </component>
@@ -140,6 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -152,21 +179,24 @@
               <item name="StoredProcHel" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Api" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="StoredProcHel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Database" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Playlists/Playlists.csproj" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.gitignore" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,11 +238,14 @@
       <workItem from="1546404284159" duration="539000" />
       <workItem from="1546404920951" duration="1354000" />
       <workItem from="1546406470065" duration="2033000" />
+      <workItem from="1546571814243" duration="196000" />
+      <workItem from="1546572043057" duration="645000" />
+      <workItem from="1546572718146" duration="582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9496000" />
+    <option name="totallyTimeSpent" value="10919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,9 +257,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -243,9 +276,9 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4968017" visible="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49261746" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5073826" side_tool="true" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="REST Client" order="15" />
       <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49840087" weight="0.34994584" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -307,23 +340,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <marker date="1546405295397" expanded="false" signature="6:50" ph="..." />
-            <marker date="1546405295397" expanded="true" signature="121:453" ph="{...}" />
-            <marker date="1546405295397" expanded="true" signature="277:447" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Playlists/Controllers/PlaylistsController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="176">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1546405309862" expanded="false" signature="6:152" ph="..." />
-            <marker date="1546405309862" expanded="true" signature="179:544" ph="{...}" />
-            <marker date="1546405309862" expanded="true" signature="287:542" ph="{...}" />
-            <marker date="1546405309862" expanded="true" signature="385:536" ph="{...}" />
+            <marker date="1546571808169" expanded="false" signature="6:152" ph="..." />
+            <marker date="1546571808169" expanded="true" signature="179:524" ph="{...}" />
+            <marker date="1546571808169" expanded="true" signature="267:522" ph="{...}" />
+            <marker date="1546571808169" expanded="true" signature="365:516" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -333,30 +361,17 @@
         <state relative-caret-position="160">
           <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
           <folding>
-            <marker date="1546405295417" expanded="false" signature="6:350" ph="..." />
-            <marker date="1546405295417" expanded="true" signature="375:3166" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="402:3164" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="461:524" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="747:1259" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="1447:1974" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="1668:1785" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
-            <marker date="1546405295417" expanded="true" signature="1819:1923" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="2062:3158" ph="{...}" />
-            <marker date="1546405295417" expanded="true" signature="2560:2651" ph="/* Logging.Info($&quot;Found {ControllersList.Count} controllers&quot;); ... */" />
-            <marker date="1546405295417" expanded="true" signature="2707:3148" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Albums/Database/ChinookDatabase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <marker date="1546399570735" expanded="false" signature="6:50" ph="..." />
-            <marker date="1546399570735" expanded="true" signature="77:453" ph="{...}" />
-            <marker date="1546399570735" expanded="true" signature="124:451" ph="{...}" />
-            <marker date="1546399570735" expanded="true" signature="274:445" ph="{...}" />
+            <marker date="1546571808120" expanded="false" signature="6:350" ph="..." />
+            <marker date="1546571808120" expanded="true" signature="375:3166" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="402:3164" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="461:524" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="747:1259" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="1447:1974" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="1668:1785" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+            <marker date="1546571808120" expanded="true" signature="1819:1923" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="2062:3158" ph="{...}" />
+            <marker date="1546571808120" expanded="true" signature="2560:2651" ph="/* Logging.Info($&quot;Found {ControllersList.Count} controllers&quot;); ... */" />
+            <marker date="1546571808120" expanded="true" signature="2707:3148" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -366,23 +381,39 @@
         <state relative-caret-position="64">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
-            <marker date="1546405136188" expanded="false" signature="6:155" ph="..." />
-            <marker date="1546405136188" expanded="true" signature="185:541" ph="{...}" />
-            <marker date="1546405136188" expanded="true" signature="290:539" ph="{...}" />
-            <marker date="1546405136188" expanded="true" signature="385:533" ph="{...}" />
+            <marker date="1546571808090" expanded="false" signature="6:155" ph="..." />
+            <marker date="1546571808090" expanded="true" signature="185:521" ph="{...}" />
+            <marker date="1546571808090" expanded="true" signature="270:519" ph="{...}" />
+            <marker date="1546571808090" expanded="true" signature="365:513" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Albums/Database/ChinookDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1546571808094" expanded="false" signature="6:50" ph="..." />
+            <marker date="1546571808094" expanded="true" signature="77:453" ph="{...}" />
+            <marker date="1546571808094" expanded="true" signature="124:451" ph="{...}" />
+            <marker date="1546571808094" expanded="true" signature="274:445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="112">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
-            <marker date="1545794665000" expanded="false" signature="6:255" ph="..." />
-            <marker date="1545794665000" expanded="true" signature="280:607" ph="{...}" />
-            <marker date="1545794665000" expanded="true" signature="307:605" ph="{...}" />
-            <marker date="1545794665000" expanded="true" signature="360:434" ph="{...}" />
+            <marker date="1546571808104" expanded="false" signature="6:255" ph="..." />
+            <marker date="1546571808104" expanded="true" signature="280:607" ph="{...}" />
+            <marker date="1546571808104" expanded="true" signature="307:605" ph="{...}" />
+            <marker date="1546571808104" expanded="true" signature="360:434" ph="{...}" />
           </folding>
         </state>
       </provider>
