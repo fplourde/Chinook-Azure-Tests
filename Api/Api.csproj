@@ -12,8 +12,6 @@
     <ProjectReference Include="..\Albums\Albums.csproj" />
     <ProjectReference Include="..\Playlists\Playlists.csproj" />
   </ItemGroup>
-  <ItemGroup>
-  </ItemGroup>
   <PropertyGroup>
     <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
   </PropertyGroup>
